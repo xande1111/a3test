@@ -1,0 +1,13 @@
+modeloapp2/__pycache__/*
+/apps/categories/__pycache__/*
+/apps/categories/migrations/*
+/apps/core/__pycache__/*
+/apps/core/migrations/*
+/apps/products/__pycache__/*
+/apps/products/migrations/*
+/apps/socialNetworks/__pycache__/*
+/apps/socialNetworks/migrations/*
+/apps/clients/__pycache__/*
+/apps/clients/migrations/*
+/apps/orders/__pycache__/*
+/apps/orders/migrations/*

@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(190, 198, 202);
+}
+
+button {
+    background-color: rgb(20, 125, 175);
+    color: rgb(255, 255, 255);
+    width: 100px;
+    height: 40px;
+
+    /*test code*/
+    border-radius: 8px;
+    transition: .4s;
+}
+
+button:hover {
+    background-color: rgb(0, 60, 90);
+
+    /*test code*/
+    cursor: pointer;
+}
+
+/*test code*/
